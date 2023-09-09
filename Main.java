@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // test
+        // test another test
         Scanner sc = new Scanner(System.in);
         int number = Integer.parseInt(sc.nextLine());
         int number2 = 2;
         int number3 = 3;
         int number6 = 6;
         int number7 = 7;
-        int number10 = 10;
+        int number10 = 11;
 
         if (number % number10 == 0) {
             System.out.printf("The number is divisible by %d", number10);
