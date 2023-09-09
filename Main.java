@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // test
         Scanner sc = new Scanner(System.in);
         int number = Integer.parseInt(sc.nextLine());
         int number2 = 2;
