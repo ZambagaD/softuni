@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // test
+        // test not another test
         Scanner sc = new Scanner(System.in);
         int number = Integer.parseInt(sc.nextLine());
         int number2 = 2;
